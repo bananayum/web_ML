@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zrj@192.168.0.210:22">
+    <serverData>
+      <paths name="zrj@192.168.0.206:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zrj/桌面/pythonproject" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zrj@192.168.0.210:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zrj/桌面/pythonproject" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
